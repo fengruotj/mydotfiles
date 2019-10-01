@@ -6,7 +6,13 @@ This repository is used to manage all my dot configuration files, it includes:
 >* Zsh
 >* Bash
 >* NeoVim
->* Spacemacs
+> apache-maven
+> kafka
+> mysql
+> redis
+> storm
+> supervisor
+> zookeeper
 
 ## Demo
 This is a demo to run a NeoVim in Tmux.
